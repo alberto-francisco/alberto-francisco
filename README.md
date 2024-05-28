@@ -88,9 +88,6 @@ const alberto = {
 
 
 <br/>
-
-![Metrics](assets/acheivements.svg)
-
 ---
 
 Quote of the Day:
