@@ -6,7 +6,7 @@
 
 <br/>
 
-<p>As an experienced Fullstack Developer with over 8 years of expertise, I excel in turning startup concepts into fully developed market-ready products, focusing particularly on crafting well-designed <b>MVPs</b>. My technical proficiency encompasses a range of dynamic <b>JavaScript</b> technologies such as <b>React</b>, <b>Next.js</b>, and <b>Angular</b>, as well as strong server-side capabilities with <b>Node.js</b> and <b>Express.js</b>. I specialize in building scalable and secure applications, with a particular focus on meeting the specific challenges faced in the <b>Fintech</b> and <b>Healthcare</b> sectors. My approach is grounded in clear and open communication, ensuring that all stakeholders remain well-informed and actively involved throughout the project lifecycle.</p>
+<p>As an experienced Fullstack Developer with over 13+ years of expertise, I excel in turning startup concepts into fully developed market-ready products, focusing particularly on crafting well-designed <b>MVPs</b>. My technical proficiency encompasses a range of dynamic <b>JavaScript</b> technologies such as <b>React</b>, <b>Vue</b>,<b>Next.js</b>, and <b>Angular</b>, as well as strong server-side capabilities with <b>Node.js</b> and <b>Express.js</b>. I specialize in building scalable and secure applications, with a particular focus on meeting the specific challenges faced in the <b>Fintech</b> and <b>Healthcare</b> sectors. My approach is grounded in clear and open communication, ensuring that all stakeholders remain well-informed and actively involved throughout the project lifecycle.</p>
 
 <br/>
 
@@ -25,10 +25,10 @@ const alberto = {
     askMeAbout: ["web dev", "tech", "app dev", "Dev Ops"],
     technologies: {
         frontEnd: {
-            js:  ["React", "Next.js", "Angular"]
+            js:  ["React", "Next.js", "Angular", "vue"]
         },
         backEnd: {
-            js: ["Node", "Express", "Nest.js"],
+            js: ["Node", "Express", "Nest.js", "Python", "C#", "Java" ,"Golang"],
         },
         mobileApp: {
             js: ["React Native", "Native Script"]
